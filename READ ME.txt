@@ -1,0 +1,2 @@
+Face detection using KNN classifier.
+Dataset Used --> the "orl_faces"
